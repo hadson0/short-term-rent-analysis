@@ -1,0 +1,8 @@
+scikit-learn
+numpy
+spacy
+unidecode
+wordcloud
+pandas
+matplotlib
+seaborn
